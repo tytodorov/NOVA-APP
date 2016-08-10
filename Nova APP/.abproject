@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Nova APP",
+  "ProjectGuid": "4eefbf1d-0764-4b2c-a818-551564654c2a",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NovaAPP",
+  "DisplayName": "Nova APP",
+  "Author": "",
+  "Description": "Nova APP",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{24613c9e-a5fe-4790-8c8d-6e3b91f646bd}",
+  "WP8ProductID": "{ef990274-b3c9-4709-a967-35d82a443726}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.NovaAPP",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
